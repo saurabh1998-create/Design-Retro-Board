@@ -37,4 +37,8 @@ export default class Boards extends LightningElement {
         console.log('array===='+this.sections);
         
     }
+    handleSubmit(event){
+        
+
+    }
 }
